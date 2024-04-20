@@ -1,0 +1,33 @@
+.flex{
+    display: flex;  
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  
+  .justify-center{
+    justify-content: center;
+  }
+  
+  .uppercase{
+    text-transform: uppercase;
+  }
+  
+  .semibold{
+    font-weight: bolder;
+  }
+
+  .my-2{
+    margin: auto;
+    padding: 23px;
+    text-align: center;
+    background-color: rgb(226, 213, 226);
+  }
+
+  .mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  
